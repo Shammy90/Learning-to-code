@@ -1,4 +1,8 @@
 # Learning-to-code
 My journey to learning Python.
 
-[HelloWorld](src/HelloWorld)
+[Hello World](src/HelloWorld.py)
+[Data Types](src/DataTypes.py)
+[If Functions](src/IfFunctions.py)
+[Loops](src/loops.py)
+
